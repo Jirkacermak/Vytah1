@@ -1,0 +1,14 @@
+[
+    {
+      "nazev": "Adresa aaaaaa",
+      "provozovatel": "Firma",
+      "cislo": "123",
+      "umisteni": "Město 12",
+      "nosnost": "800kg",
+      "stanice": "6/6",
+      "revize_datum": "2023-11-01",
+      "zkouska_datum": "2022-11-01",
+      "inspekce_datum": "2020-11-01"
+    }
+  ]
+  
